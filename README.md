@@ -2,7 +2,7 @@
 
 🎓 **Estudante de Sistemas de Informação** (8º período - FMG)  
 💻 **Estagiária no INSS** | Suporte de TI  
-🔍 Explorando a área de **Qualidade de Software (QA)** e me aprofundando em **Testes de Software** para garantir a excelência e funcionalidade das aplicações!**  
+🔍 Explorando a área de **Qualidade de Software (QA)** e me aprofundando em **Testes de Software** para garantir a excelência e funcionalidade das aplicações! 
 
 ---
 
